@@ -2,8 +2,6 @@
 WHITEPAPER DRAFT — FOR PUBLIC RELEASE
 ArchitectOS: A Deterministic Multi-Agent Orchestration Framework for AI-Native Software Systems
 
-(Hybrid Academic + Engineering Style)
-
 ABSTRACT
 
 Modern AI systems increasingly rely on multiple cooperating models that must coordinate, reason over shared context, and interact with real-world state through tools, code, and structured workflows. Existing architectures lack deterministic orchestration, transparent provenance, and a principled governance model for multi-agent reasoning.
